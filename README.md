@@ -1,5 +1,5 @@
 
-
+[![Hugging Face Demo](https://img.shields.io/badge/Hugging_Face-LLM%20Chatbot-blue)](https://huggingface.co/spaces/Vashishta-S-2141/LLM_Database_Chatbot)
 # LLM Database Chatbot
 
 This project provides an interactive Gradio-based chatbot that lets users ask questions about their uploaded CSV data in plain English. It generates appropriate SQL queries to analyze the data and returns insightful, natural-language answers.
