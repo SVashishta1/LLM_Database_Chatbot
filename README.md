@@ -1,17 +1,4 @@
----
-title: LLM Database Chatbot
-emoji: 🏃
-colorFrom: red
-colorTo: red
-sdk: gradio
-sdk_version: "5.0.1"
-app_file: app.py
-pinned: false
-license: mit
-short_description: A chatbot for database analysis powered by LLM via Groq API.
-app_type: tabular
-inference: true
----
+
 
 # LLM Database Chatbot
 
