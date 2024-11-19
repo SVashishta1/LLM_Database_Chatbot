@@ -1,0 +1,5 @@
+huggingface_hub==0.25.2
+langchain-community
+langchain-groq
+pandas==2.0.3
+gradio==5.0.1
